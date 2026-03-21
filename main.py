@@ -5,8 +5,8 @@ from PIL import Image, ImageDraw, ImageFont
 
 # ========= CONFIG =========
 BOT_TOKEN = "8659209680:AAF0PFICCemksGbnoFk_DgEqNhGsGlDhBiU"   # <-- apna bot token daalo
-API_URL = "https://yash-code-with-ai.alphamovies.workers.dev/?num="
-API_KEY = "7189814021"
+API_URL = "https://nv2.ek4nsh.in/api?key=3012&mobile=9876543210"
+API_KEY = "3012"
 
 BASE_URL = f"https://api.telegram.org/bot{BOT_TOKEN}/"
 
