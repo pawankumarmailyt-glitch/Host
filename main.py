@@ -60,7 +60,7 @@ def verify_user(user_id):
 
 # ========== SHORTNER ==========
 def create_link(user_id):
-    long_url = f"https://t.me/?start=verify_{user_id}"
+    long_url = f"https://t.me/numbertoinffo1_bot?start=verify_{user_id}"
 
     try:
         url = f"https://{SHORTNER_WEBSITE}/api"
